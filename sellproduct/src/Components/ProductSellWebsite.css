@@ -1,0 +1,47 @@
+.product-sell-website {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #E9F1FA;
+    
+  }
+
+  .product-content{
+    display: flex;
+  }
+
+  .blue{
+    color: blue;
+    font:bold;
+  }
+  
+  .price{
+    color: red;
+    font:bold;
+  }
+  .product-info {
+    margin-top: 20px;
+  }
+  
+  .product-info p {
+    margin-bottom: 10px;
+  }
+  .list{
+    text-align: left;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
